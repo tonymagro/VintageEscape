@@ -1,7 +1,7 @@
 Sublime Text 2 & 3 plugin that makes vintage mode close the completion menu and enter normal mode when escape is pressed.
 
 
-Add this to your user key bindings:
+Default key bindings:
 
 	{ "keys": ["escape"], "command": "exit_auto_complete_and_insert_mode", "context":
 		[
