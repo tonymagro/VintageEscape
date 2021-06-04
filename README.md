@@ -1,4 +1,4 @@
-Sublime Text 2 & 3 plugin that makes vintage mode close the completion menu and enter normal mode when escape is pressed.
+Sublime Text plugin that makes vintage mode close the completion menu and enter normal mode when escape is pressed.
 
 
 Default key bindings:
